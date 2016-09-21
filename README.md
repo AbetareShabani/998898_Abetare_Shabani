@@ -29,15 +29,25 @@ Based on my experience in android development, developing this app in the beginn
    REFERENCES:
    
 [1] http://www.survivingwithandroid.com/2013/08/android-app-development-weather-app.html - Weather App develop
+
 [2]  http://stackoverflow.com/questions/2591098/how-to-parse-json-in-java - Parse JSON
+
 [3] http://www.survivingwithandroid.com/2013/08/android-app-development-weather-app.html  - Forecast weather app development
+
 [4] http://square.github.io/okhttp/  - OkHttpClient
+
 [5] https://developer.android.com/reference/android/os/Parcel.html - Parcel Android
+
 [6] http://stackoverflow.com/questions/1626667/how-to-use-parcel-in-android - Use of Parcel
+
 [7] http://forecast.io/#/f/60.8000,10.7000 – Forecast web page
+
 [8] https://darksky.net/dev/ - Forecast API 
+
 [9] https://teamtreehouse.com/library/android-studio-features - Tutorial on Developing a weather app
+
 [10] https://developers.google.com/android/guides/setup - Google Play Services
+
 [11] https://developer.android.com/training/basics/activity-lifecycle/index.html - Android Development web page
 
 
